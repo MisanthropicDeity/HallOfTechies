@@ -35,6 +35,17 @@ const data = [
       "https://twitter.com/Priyank43692137",
     ],
   },  
+  {
+    id: 7004,
+    name: "Vidhu Shikhar Joshi",
+    role: "AWS ROUTE HERO",
+    image: "https://avatars.githubusercontent.com/u/41142410?v=4",
+    link: [
+      "https://github.com/MisanthropicDeity",
+      "https://www.linkedin.com/in/vidhu-shikhar-joshi/",
+      "https://twitter.com/VidhuJoshi31",
+    ],
+  }
 ];
 
 export default data;
